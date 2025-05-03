@@ -12,7 +12,7 @@ from datetime import datetime
 
 # Configuration
 OUTPUT_DIR = "expression_results"
-API_KEY = "kr1vdrVRykUhaln9XegHcACEfjJsGMJa98xI27SqnMOjrell"
+API_KEY = "<enter here>"
 CAMERA_ID = 0  # Usually 0 for built-in webcam, try other integers if not working
 FRAME_INTERVAL = 0.5  # Seconds between analyzed frames
 
